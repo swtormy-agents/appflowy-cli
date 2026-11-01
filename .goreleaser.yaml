@@ -54,3 +54,5 @@ changelog:
 release:
   draft: true
   mode: replace
+  header: |
+    **Disclaimer:** appflowy-cli is unofficial and not affiliated with or endorsed by AppFlowy.
