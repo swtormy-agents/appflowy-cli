@@ -1,0 +1,5 @@
+/appflowy
+/appflowy.exe
+dist/
+*.test
+third_party_licenses/
